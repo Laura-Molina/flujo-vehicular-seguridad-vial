@@ -65,6 +65,12 @@ flujo-vehicular-seguridad-vial/ │ ├── README.md ├── dashboard/ │
 
 
 ---
+--
+
+📌 **Visualización en línea**
+
+👉 Podés ver el informes completos en Power BI en este enlace:
+🔗 Reporte Seguridad Vial](https://app.powerbi.com/view?r=eyJrIjoiY2I2NjdmN2MtZTZiZi00NzllLWE0YjUtNjYxNjFhOGQwNWJhIiwidCI6ImQxNDIxOTAxLWMxNzMtNGFiNS1hNGQ3LTlkYjE2NDNlNjFkMyIsImMiOjR9&pageName=c09ac4f179aac250c186)
 
 ## 👩‍💻 Autora
 
